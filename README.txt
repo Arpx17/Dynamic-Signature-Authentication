@@ -1,3 +1,7 @@
+This project is to authentication the pen tab based signatures which involves the pen pressure pen tip position etc.
+
+Datasets are present in the folder Task1 and Task2
+
 This small sample data set contains signature data collected from
 five users.  For each user, there are 20 genuine signatures and
 20 skilled forgeries.
